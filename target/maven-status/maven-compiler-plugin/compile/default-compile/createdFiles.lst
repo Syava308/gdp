@@ -1,0 +1,8 @@
+com/edu/config/SpringConfig.class
+com/edu/config/WebAppInitializer.class
+com/edu/dao/UserDao.class
+com/edu/controller/UserController.class
+com/edu/config/WebConfig.class
+com/edu/service/TestBean.class
+com/edu/App.class
+com/edu/service/UserService.class
